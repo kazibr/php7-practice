@@ -13,3 +13,8 @@
     <title>PHP 7 Practice</title>
   </head>
   <body>
+  <section class="header">
+    <div class="container">
+      <h1 class="display-4 text-center my-2">Learning PHP 7</h1>
+    </div>
+  </section>
